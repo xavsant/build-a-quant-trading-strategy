@@ -206,5 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-data/
+# Added
 cache/
+.DS_Store
+.gitignore
+.python-version
